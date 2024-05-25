@@ -1,4 +1,4 @@
-Hi, I’m @SiyuanQi, a researcher in computer vision and cognitive science.
+Hi, I’m @SiyuanQi, a researcher in machine learning and multi-agent systems.
 
 Please see my [old (lost) Github profile](https://github.com/SiyuanQi-zz) for previous repos, and [Google scholar](https://scholar.google.com/citations?user=ePclJR4AAAAJ&hl=en) profile for publications.
 
